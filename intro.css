@@ -26,3 +26,27 @@
     display:flex;
     justify-content:center;
 }
+.Other{
+    text-align:center;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.Accordion{
+    width:800px;
+    margin:auto;
+}
+.Video{
+    display:flex;
+    justify-content:center;
+}
+.Assoc_button{
+    display:flex;
+    justify-content:center;
+}
+.Cert_button{
+    display:flex;
+    justify-content:center;
+}
+.Master_button{
+    display:flex;
+    justify-content:center;
+}
