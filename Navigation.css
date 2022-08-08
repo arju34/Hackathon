@@ -1,0 +1,11 @@
+.Navigate{
+    display:flex;
+    justify-content:center;
+}
+.List{
+    display:flex;
+    justify-content:center;
+}
+ul{
+    text-align:left;
+}
