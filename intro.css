@@ -64,19 +64,8 @@
     display:flex;
     justify-content:center;
 }
-.Navigate{
-    display:flex;
-    justify-content:center;
-}
 ul{
     display:inline-block;
     text-align:left;    
 }
-.List{
-    display:flex;
-    justify-content:center;
-}
-.GIF{
-    display:flex;
-    justify-content:center;
-}
+
