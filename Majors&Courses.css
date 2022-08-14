@@ -1,11 +1,18 @@
 .Header{
    text-align:center;
-   font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 .dropdown{
     display:flex; justify-content:center;
  }
  .card2{
     display:flex;justify-content:center;
+ }
+ .Intro{
+   display:flex;justify-content:center;
+ }
+ .offset{
+   display:flex;
+   justify-content:center;
  }
  
