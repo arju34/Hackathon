@@ -15,4 +15,13 @@
    display:flex;
    justify-content:center;
  }
- 
+ .butt{
+   display:flex;
+   justify-content:center;
+ }
+ .tests{
+   display:flex;justify-content:center;
+ }
+ .Vid{
+   display:flex;justify-content:center;
+ }
